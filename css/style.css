@@ -5,14 +5,17 @@
   }
 
   .box-one {
+    background-color: blue;
+    border: 0 solid wheat;
     padding: 20px;
     margin: 20px;
     border-width: 20px;
-    background-color: blue;
-    border: 0 solid wheat;
   }
 
   .box-two {
     background-color: plum;
     border: 0 solid purple;
+    padding: 20px;
+    margin: 20px;
+    border-width: 20px;
   }
